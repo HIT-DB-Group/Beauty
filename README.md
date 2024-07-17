@@ -1,8 +1,8 @@
 # **B**enefit **E**stim**a**tion with **U**ncertain**ty**
 
-This repository contains the code accompanying the paper "Uncertainty-Aware Benefit Estimation: A Reliable Model for Index Tuning."
+This repository contains the code accompanying the paper "[Uncertainty-Aware Benefit Estimation: A Reliable Framework for Index Tuning.](./Beauty.pdf)" which is currently under submission to VLDB 2025.
 
-## Overview
+## Project Overview
 
 The folder `index_selection_evaluation/ML/AImeetsAI` includes various uncertainty-aware models based on the paper "AI Meets AI: Leveraging Query Executions to Improve Index Recommendations." These models include:
 
@@ -17,7 +17,6 @@ The folder `index_selection_evaluation/ML/AImeetsAI` includes various uncertaint
 ## Integration
 
 The script `index_selection_evaluation/selection/ProcessedWorkloadBeauty.py` demonstrates how to integrate the BE-UQ models into the index tuning process.
-
 
 ## References
 
