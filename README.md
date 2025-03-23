@@ -18,6 +18,20 @@ The folder `index_selection_evaluation/ML/AImeetsAI` includes various uncertaint
 
 The script `index_selection_evaluation/selection/ProcessedWorkloadBeauty.py` demonstrates how to integrate the BE-UQ models into the index tuning process.
 
+## Experimental Results
+
+The uncertainty distribution results across various benchmarks are depicted in the following figures:
+
+![TPC-H Benchmark](figures/TPC-H.png)  
+*Performance evaluation on the TPC-H benchmark*
+
+
+![TPC-DS Benchmark](figures/TPC-DS.png)  
+*Performance evaluation on the TPC-DS benchmark*
+
+![JOB Benchmark](figures/JOB.png)  
+*Performance evaluation on the JOB benchmark*
+
 ## References
 
 - **Uncertainty-Aware Benefit Estimation: A Reliable Model for Index Tuning**
